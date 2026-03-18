@@ -11,6 +11,8 @@
 
 [![Download Bunni Executor](https://img.shields.io/badge/⬇️%20Download%20Now-Bunni%20Executor-ff69b4?style=for-the-badge)](https://krolikbun.github.io/bunni/)
 
+<img width="1280" height="720" alt="Bunni Executor" src="https://github.com/user-attachments/assets/23c78b6f-7e70-4259-a651-7feb352ba91a" />
+
 Key capabilities include:
 - ⚡ **Fast External Injection** — Attaches to Roblox from outside the process for lower detection exposure
 - 🗂️ **Built-in Script Hub** — 300+ pre-loaded, verified scripts organized by game category
